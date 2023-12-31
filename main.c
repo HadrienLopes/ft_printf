@@ -3,8 +3,8 @@
 
 int main(void)
 {
-    ft_printf("Modify \"main.c\" to test ft_printf\n");
-    ft_printf("(ft_printf is now included on libft repository)\n");
-    ft_printf("%d\n", 1337);
+    ft_printf("ft_printf is now included on hlibc repository:\n");
+    ft_printf("https://github.com/HadrienLopes/hlibc\n");
+    ft_printf("%d\n", 42);
     return (0);
 }
