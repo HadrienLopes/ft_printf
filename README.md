@@ -26,4 +26,4 @@ $> make
 $> gcc main.c ./sources/*.o -L ./libft -lft
 ```
 > [!IMPORTANT]
-> The library is only available in static version for the moment.
+> The library is only available in static version.
